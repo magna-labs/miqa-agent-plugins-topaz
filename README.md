@@ -1,1 +1,0 @@
-# miqa-agent-plugins-topaz
